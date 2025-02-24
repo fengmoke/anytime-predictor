@@ -1,0 +1,19 @@
+    ''''
+    0  Standing up from sitting(StandingUpFS)
+    1  Standing up from laying(StandingUpFL)
+    2  Walking
+    3  Running
+    4  Going upstairs(GoingUpS)
+    5  Jumping
+    6  Going downstairs(GoingDownS)
+    7  Laying down from standing(LyingDownFS)
+    8  Sitting Down(SittingDown)
+    9  Falling forward(FallingForw)
+    10 Falling leftward(FallingRight)
+    11 Falling backward(FallingBack)
+    12 Hitting obstacle(HittingObstacle)
+    13 Falling with protection strategies(FallingWithPS)
+    14 Falling backward-sitting-chair(FallingBackSC)
+    15 Syncope
+    16 Falling rightward(FallingLeft)
+    '''
